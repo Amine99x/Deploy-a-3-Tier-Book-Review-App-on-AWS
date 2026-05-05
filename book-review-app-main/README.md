@@ -16,7 +16,7 @@
   
 This three-tier architecture can be independently deployed, making it ideal for containerization, cloud hosting, and CI/CD implementation.
 
-![Two-tiered-Web-application-architecture](book-review-app-main/im.png)
+![Two-tiered-Web-application-architecture](https://raw.githubusercontent.com/Amine99x/Deploy-a-3-Tier-Book-Review-App-on-AWS/main/book-review-app-main/im.png)
 
 
 
