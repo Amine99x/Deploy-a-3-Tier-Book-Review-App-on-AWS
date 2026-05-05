@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+
+.env
+
+# Logs & temp files
+logs/
+*.log
+npm-debug.log*
